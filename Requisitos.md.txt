@@ -1,0 +1,23 @@
+- **Requisitos do usuário:**
+	- Deve conseguir navegação entre telas.
+	- Deve conseguir salvar novas memórias (é composta por imagens, textos e vídeos).
+	- Deve conseguir visualizar memórias salvas.
+	- Deve conseguir deletar memórias salvas.
+	- Deve conseguir buscar por uma memória específica via o seu nome.
+	- Deve conseguir editar uma memória.
+
+- **Requisitos Funcionais:**
+	- Deve permitir a navegação entre telas.
+	- Deve permitir salvar novas memórias.
+	- Deve permitir visualizar memórias salvas.
+	- Deve permitir deletar memórias salvas.
+	- Deve permitir buscar por uma memória específica via o seu nome.
+	- Deve poder editar uma memória.
+	- Deve possuir um botão de ajuda em cada página principal da aplicação.
+	- Todas as páginas devem ter um botão para retornar à página anterior.
+	- Precisa ter acesso a galeria e o teclado do usuário.
+
+- **Requisitos não funcionais:**
+	- O programa deve funcionar off-line.
+	- O desenvolvimento deve ser em linguagem Java ou Kotlin.
+	- O programa deve ser disponibilizado para a plataforma android.
